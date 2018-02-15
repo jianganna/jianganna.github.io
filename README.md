@@ -1,3 +1,3 @@
 # learngit
 学习git
-add sometihing in 'master' branch
+add sometihing in 'feature1' branch
